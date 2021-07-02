@@ -1,0 +1,53 @@
+.sundarban{
+    background-color: cornflowerblue;
+    
+    
+}
+.sundarban2{
+    height: 200px;
+    width: 50%;
+    
+    border: 8px solid green;
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 10px 15px;
+    text-align: justify;
+    
+}
+.coxs_bazar{
+    background-color: darkcyan;
+}
+.bandarban{
+    background-color: forestgreen;
+
+}
+
+#different{
+    color: firebrick;
+}
+.author{
+    color: gold;
+}
+
+
+.title{
+    display: inline-block;
+    border-bottom: 4px solid green;
+    width: 300px;
+}
+.scroll{
+    background-color: green;
+    
+    height: 220px; 
+    width: 300px; 
+    margin-left: 1500px;
+    margin-bottom: 225px; 
+    margin-top: -245px;
+    border-radius: 5px;
+    padding-left: 2px;
+         
+
+}
+body{
+    text-align: center;
+}
